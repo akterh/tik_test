@@ -1,5 +1,5 @@
 name: test_tik
-description: TIk ” --org com.dinnova.readback”
+description: TIk ” --org com.test.tikweb”
 version: 1.0.5+16
 publish_to: none
 
